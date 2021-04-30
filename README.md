@@ -16,12 +16,8 @@
 
 <p align="center">
  <a href="#about">Sobre</a> •
- <a href="#features">Features</a> •
  <a href="#how-it-works">Como funciona</a> • 
- <a href="#tech-stack">Tech Stack</a> • 
- <a href="#contributors">Contributors</a> • 
- <a href="#author">Autor</a> • 
- 
+ <a href="#author">Autor</a>
 </p>
 
 
@@ -39,57 +35,18 @@ Este projeto é divido em 2 partes:
 
 ### Pre-requisitos
 
-Antes de qualquer coisa, você precisará ter instalado o Java em seu S.O the following tools installed on your machine:
-[Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+Antes de qualquer coisa, você precisará ter instalado o Java em seu S.O, para tal siga o tutorial a seguir:
+[Java] (https://www.youtube.com/watch?v=00GDveAy8dA). Todos os códigos contidos neste projetos foram escritos em **Notepad++**
 
-#### Rodando o Backend (servidor)
-
-```bash
-
-# Clone this repository
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
-
-# Access the project folder cmd/terminal
-$ cd README-ecoleta
-
-# go to the server folder
-$ cd server
-
-# install the dependencies
-$ npm install
-
-# Run the application in development mode
-$ npm run dev:server
-
-# The server will start at port: 3333 - go to http://localhost:3333
-
-```
-<p align="center">
-  <a href="https://github.com/tgmarinho/README-ecoleta/blob/master/Insomnia_API_Ecoletajson.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
-
-
-#### Running the web application (Frontend)
+#### Rodando qualquer código
 
 ```bash
 
-# Clone this repository
-$ git clone git@github.com: tgmarinho / README-ecoleta.git
+# Clone este repositório
+$ git clone git@github.com:vtoretto/java.git
 
-# Access the project folder in your terminal
-$ cd README-ecoleta
-
-# Go to the Front End application folder
-$ cd web
-
-# Install the dependencies
-$ npm install
-
-# Run the application in development mode
-$ npm run start
-
-# The application will open on the port: 3000 - go to http://localhost:3000
+# Acesse o diretório do projeto
+$ cd java
 
 ```
 
