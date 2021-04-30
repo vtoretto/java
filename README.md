@@ -17,8 +17,7 @@
 <p align="center">
  <a href="#about">Sobre</a> •
  <a href="#features">Features</a> •
- <a href="#layout">Layout</a> • 
- <a href="#how-it-works">How it works</a> • 
+ <a href="#how-it-works">Como funciona</a> • 
  <a href="#tech-stack">Tech Stack</a> • 
  <a href="#contributors">Contributors</a> • 
  <a href="#author">Author</a> • 
@@ -29,70 +28,19 @@
 
 ## Sobre
 
-JAVA NO BIT - é a documentação do Java do estudo do Java feito por um noob exploramos todos os erros possíveis entities that collect organic and inorganic waste to people who need to dispose of their waste in an ecological way.
-Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](https://blog.rocketseat.com.br/primeira-next-level-week/). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
+JAVA NO BIT - é o estudo do Java no mínimo detalhe.
 
 ---
 
-## Features
+## Como funciona
 
-- [x] Companies or entities can register on the web platform by sending:
-   - [x] an image of the collection point
-   - [x] entity name, email and whatsapp
-   - [x] and the address so that it can appear on the map
-   - [x] in addition to selecting one or more collection items:
-     - lamps
-     - Batteries
-     - papers and cardboard
-     - electronic waste
-     - organic waste
-     - kitchen oil
+Este projeto é divido em 2 partes:
+1. Tópicos - estes os mesmos que são abordados na certificação Java Programmer I - e forma correta de se codar
+2. Exploração dos erros de compilação e execução em decorrência de não se codar da forma que o Java requer
 
-- [x] Users have access to the mobile application, where they can:
-   - [x] browse the map to see the registered institutions
-   - [x] contact the entity via E-mail or WhatsApp
+### Pre-requisitos
 
----
-
-## Layout
-
-The application layout is available on Figma:
-
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
-
-
-### Mobile
-
-<p align="center">
-  <img alt="Ecoleta" title="#Ecoleta" src="./assets/home-mobile.png" width="200px">
-
-  <img alt="Ecoleta" title="#Ecoleta" src="./assets/detalhes-mobile.svg" width="200px">
-</p>
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Ecoleta" title="#Ecoleta" src="./assets/web.svg" width="400px">
-
-  <img alt="Ecoleta" title="#Ecoleta" src="./assets/sucesso-web.svg" width="400px">
-</p>
-
----
-
-## How it works
-
-This project is divided into three parts:
-1. Backend (server folder)
-2. Frontend (web folder)
-3. Mobile (mobile folder)
-
-Both Frontend and Mobile need the Backend to be running to work.
-
-### Pre-requisites
-
-Before you begin, you will need to have the following tools installed on your machine:
+Antes de qualquer coisa, você precisará ter instalado o Java em seu S.O the following tools installed on your machine:
 [Git] (https://git-scm.com), [Node.js] (https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
@@ -203,67 +151,19 @@ The following tools were used in the construction of the project:
 -   Icons:  **[Feather Icons](https://feathericons.com/)**,  **[Font Awesome](https://fontawesome.com/)**
 -   Fonts:  **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**,  **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
-
----
-
-## Contributors
-
-A big thanks to this group that made this product leave the field of idea and enter the app stores :)
-
-You are an awesome team! :)
-
-<table>
-  <tr>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/2254731?s=400&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="100px;" alt=""/><br /><sub><b>Diego Fernandes</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/4669899?s=460&u=806503605676192b5d0c363e4490e13d8127ed64&v=4" width="100px;" alt=""/><br /><sub><b>Cleiton Souza</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/861751?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Robson Marques</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/16831337?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Claudio Orlandi</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/37725197?s=460&u=446439436524c37f66e41f35b607dbb70358d5e4&v=4" width="100px;" alt=""/><br /><sub><b>Vinícios Fraga</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/26551306?s=460&u=18446655ccae6c2a29eb177a104ecf32f029aa3a&v=4" width="100px;" alt=""/><br /><sub><b>Hugo Duarte</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a>  <a href="https://blog.rocketseat.com.br/" title="Blog">🌐</a></td>
-    
-  </tr>
-  <tr>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/39345247?s=460&u=cdff2624a327a43e2765112a54e966a06eac6d79&v=4" width="100px;" alt=""/><br /><sub><b>Joseph Oliveira</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/10366880?s=460&u=59e93e1752e9d2ece4b7d8e129d60caba9c94207&v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Rodz</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/6643122?s=460&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4" width="100px;" alt=""/><br /><sub><b>Mayk Brito</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/7268910?s=460&u=0b5d9df4232e70fa66ea9f130fad4260378323de&v=4" width="100px;" alt=""/><br /><sub><b>João Paulo</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/14251143?s=460&u=340ed1d854bbacc22b9a3210a18a1f589a28bc40&v=4" width="100px;" alt=""/><br /><sub><b>Luke Morales</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/5151405?s=460&u=1dbcf0e89087c2dc902d3331b90e532db1543d2b&v=4" width="100px;" alt=""/><br /><sub><b>Luiz Batanero</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
-    
-  </tr>
-</table>
-
-## How to contribute
-
-1. Fork the project.
-2. Create a new branch with your changes: `git checkout -b my-feature`
-3. Save your changes and create a commit message telling you what you did: `git commit -m" feature: My new feature "`
-4. Submit your changes: `git push origin my-feature`
-> If you have any questions check this [guide on how to contribute](./CONTRIBUTING.md)
-
 ---
 
 ## Author
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt="Thiago Marinho"/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/vtoretto" width="100px;" alt="Vitor Duarte"/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat"></a>
- <br />
+ <sub><b>Vitor Duarte</b></sub></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorduart/)](https://www.linkedin.com/in/vitorduart/) 
+[![Gmail Badge](https://img.shields.io/badge/-duartevoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:duartevoliveira@gmail.com)](mailto:duartevoliveira@gmail.com)
 
 ---
 
-## License
+## README
 
-This project is under the license [MIT](./LICENSE).
-
-Made with love by Thiago Marinho 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/tgmarinho/)
-
----
-
-##  Versions of README
-
-[Portuguese](./README.md)  |  [English without emojis](./README-en.md) | [Portugueses without logo](./README-sem-logo.md) 
+[Português](./README.md)
