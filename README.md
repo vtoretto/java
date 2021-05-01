@@ -23,20 +23,22 @@
 
 ## Sobre
 
-JAVA NO BIT - é o estudo do Java no mínimo detalhe.
+JAVA NO BIT - é o estudo do Java no mínimo detalhe. A ideia principal é aprender errando de propósito e, posteriormente, investigando os motivos pelo qual se deu o erro. 
 
 ---
 
 ## Como funciona
 
 Este projeto é divido em 2 partes:
-1. Tópicos - estes os mesmos que são abordados na certificação Java Programmer I - e forma correta de se codar
-2. Exploração dos erros de compilação e execução em decorrência de não se codar da forma que o Java requer
+1. *Tópicos*, os mesmos abordados na certificação Java Programmer I e forma correta de se codar;
+2. *Exploração dos erros de compilação e execução* em decorrência por não se codar da forma que o Java requer.
 
-### Pre-requisitos
+### Pré-requisitos
 
 Antes de qualquer coisa, você precisará ter instalado o Java em seu S.O, para tal siga o tutorial a seguir:
-[Java] (https://www.youtube.com/watch?v=00GDveAy8dA). Todos os códigos contidos neste projetos foram escritos em **Notepad++**
+[Java] (https://www.youtube.com/watch?v=00GDveAy8dA). 
+
+Obs.: Todos os códigos contidos neste projeto foram escritos sem a utilização de qualquer IDE, somente o **Notepad++**.
 
 #### Rodando qualquer código
 
