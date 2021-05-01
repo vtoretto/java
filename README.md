@@ -16,7 +16,7 @@
 
 <p align="center">
  <a href="#Sobre">Sobre</a> •
- <a href="#Como funciona">Como funciona</a> • 
+ <a href="#Como-funciona">Como funciona</a> • 
  <a href="#Autor">Autor</a>
 </p>
 
