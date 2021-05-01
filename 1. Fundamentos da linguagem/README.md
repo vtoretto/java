@@ -1,9 +1,9 @@
 <h1 align="center">
-<a href="#"> JAVA NO BIT </a>
+<a href="#"> FUNDAMENTOS DA LINGUAGEM </a>
 </h1>
 
 <h3 align="center">
-    Estudo de Java Orientado ao Erro
+    Estudo dos Fundamentos da Linguagem Orientado ao Erro
 </h3>
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/vtoretto/java" align="center">

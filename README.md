@@ -15,9 +15,9 @@
 </h4>
 
 <p align="center">
- <a href="#about">Sobre</a> •
- <a href="#how-it-works">Como funciona</a> • 
- <a href="#author">Autor</a>
+ <a href="#Sobre">Sobre</a> •
+ <a href="#Como Funciona">Como funciona</a> • 
+ <a href="#Autor">Autor</a>
 </p>
 
 
