@@ -12,12 +12,6 @@
 
 <h4 align="center"> 
 	 Status: Em construção
-</h4>
-
-<p align="center">
- <a href="#how-it-works">Como funciona</a> • 
- <a href="#author">Autor</a>
-</p>
 
 ---
 
