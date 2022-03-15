@@ -30,7 +30,7 @@ JAVA NO BIT - é o estudo do Java no mínimo detalhe. A ideia principal é apren
 ## Como funciona
 
 Este projeto é divido em 2 partes:
-1. *Tópicos*, os mesmos abordados na certificação Java Programmer I e forma correta de se codar;
+1. *Tópicos*. Os mesmos abordados na certificação Java Programmer I e forma correta de se codar;
 2. *Exploração dos erros de compilação e execução* em decorrência de não se codar da forma que o Java requer.
 
 ### Pré-requisitos
